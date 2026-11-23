@@ -1,0 +1,61 @@
+note_id,ebl,anes,comment
+45,minimal,general,
+88,5,not stated,'anesthetized' but type never named
+102,not stated,regional,spinal with local infiltration and sedation
+109,20,combined,general with caudal block
+113,not stated,general,
+123,not stated,general,
+124,not stated,not stated,
+134,not stated,general,
+182,not stated,local_or_sedation,topical drops
+211,50,general,
+241,minimal,general,'Bleeding was negligible'
+265,5,general,"'Minimum, less than 5 cc'"
+267,minimal,general,stated in the narrative only
+289,not stated,local_or_sedation,
+303,100,combined,general and spinal
+332,500,general,anaesthesia stated in the narrative only
+351,100,general,
+377,not stated,general,
+417,minimal,local_or_sedation,MAC
+421,not stated,general,general plus local infiltration
+437,not stated,local_or_sedation,MAC with eye block
+495,not stated,general,
+533,1,general,
+547,not stated,general,
+553,not stated,general,
+590,100,general,
+614,200,general,
+620,30,general,anaesthesia stated in the narrative only
+627,not stated,general,
+630,not stated,general,
+637,minimal,general,'EBL: Scant'; anaesthesia in the narrative only
+651,100,general,
+679,50,general,
+716,not stated,local_or_sedation,
+771,minimal,general,
+794,not stated,local_or_sedation,sedation and topical
+838,not stated,local_or_sedation,IV sedation
+843,minimal,general,'ESTIMATED BLOOD LOSS: None'
+877,not stated,local_or_sedation,"'Blood loss anemia' is a diagnosis here, not a surgical blood loss"
+899,10,general,
+921,400,general,
+945,minimal,general,
+963,150,general,blood loss stated in the last sentence only
+1003,not stated,local_or_sedation,Demerol and Versed
+1084,not stated,regional,Bier block
+1126,not stated,local_or_sedation,IV sedation with local blocks of the foot
+1134,not stated,not stated,already intubated for respiratory failure
+1164,not stated,local_or_sedation,local infiltration
+1185,minimal,general,'Nil'
+1191,30,general,LMA
+1203,minimal,general,
+1209,not stated,general,
+1218,not stated,local_or_sedation,IV sedation with digital block
+1235,not stated,general,
+1240,50,general,
+1245,200,not stated,'Blood loss less than about 200 mL'
+1273,not stated,general,
+1274,not stated,general,
+1277,not stated,general,LMA
+4959,400,local_or_sedation,local infiltration; patient not sedated

@@ -1,0 +1,61 @@
+note_id,specialty,name
+45,Urology, Sling (SPARC Suburethral) 
+88,Urology, Laparoscopic Orchiopexy 
+102,Urology, Inguinal Hernia Repair - Indirect 
+109,Urology, Hypospadias Repair & Chordee Release - 1 
+113,Urology, Hydrocelectomy. 
+123,Urology, Foreign Object Removal - Urethra 
+124,Urology, Flexible Cystoscopy - Atrophic Vaginitis 
+134,Urology, Electrofulguration - Bladder Tumor 
+182,Surgery, YAG Laser Capsulotomy 
+211,Surgery, Uvulopalatopharyngoplasty & Tonsillectomy 
+241,Surgery, Tracheotomy - 1 
+265,Surgery, Tonsillectomy & Adenoidectomy - 5 
+267,Surgery, Tonsillectomy & Adenoidectomy - 3 
+289,Surgery, Temporal Artery Biopsy 
+303,Surgery, TAH & Salpingooophorectomy 
+332,Surgery, Spine Fusion 
+351,Surgery, Septorhinoplasty 
+377,Surgery, Rhinectomy & Nasal Endoscopy 
+417,Surgery, Port-A-Cath Insertion 
+421,Surgery, Pinning - Ulna 
+437,Surgery, Phacoemulsification of Cataract - 1 
+495,Surgery, ORIF - 1 
+533,Surgery, Myringotomy/Tube Insertion - 1 
+547,Surgery, Microsuspension Direct Laryngoscopy & Biopsy 
+553,Surgery, Mediastinal Exploration & Right Atrium Repair 
+590,Surgery, Lobectomy - VATS 
+614,Surgery, Laparotomy & Salpingectomy 
+620,Surgery, Laparoscopic Supracervical Hysterectomy.   
+627,Surgery, Laparoscopic Hysterectomy 
+630,Surgery, Laparoscopic Gastric Bypass 
+637,Surgery, Laparoscopic Cholecystectomy & Cholangiogram 
+651,Surgery, Laparoscopic Adrenalectomy 
+679,Surgery, Intramedullary Rod 
+716,Surgery, I&D - Auricular Hematoma 
+771,Surgery, Full Mouth Dental Rehabilitation - 2 
+794,Surgery, Fiberoptic Flexible Bronchoscopy 
+838,Surgery, Esophagogastroduodenoscopy - 12 
+843,Surgery, Esophageal Foreign Body Removal 
+877,Surgery, EGD & Colonoscopy 
+899,Surgery, Diskectomy 
+921,Surgery, Decompressive Laminectomy 
+945,Surgery, Cysto & Double-J Stent Insersion 
+963,Surgery, Craniotomy & Neuronavigation 
+1003,Surgery, Colonoscopy - 13 
+1084,Surgery, Carpal Tunnel Release 
+1126,Surgery, Bunionectomy & Flexor Tenotomy 
+1134,Surgery, Bronchoscopy Brushings 
+1164,Surgery, Blepharon & Entropion Repair 
+1185,Surgery, Bifrontal Cranioplasty 
+1191,Surgery, Axillary Dissection & Mass Excision 
+1203,Surgery, Arthrotomy & I&D 
+1209,Surgery, Arthroscopy & Chondroplasty 
+1218,Surgery, Arthroplasty 
+1235,Surgery, Anterior Cervical Discectomy & Interbody Fusion - 2 
+1240,Surgery, Anterior Cervical Discectomy & Interbody Fusion 
+1245,Surgery, Anterior Cervical Discectomy & Fusion 
+1273,Surgery, Achilles Lengthening 
+1274,Surgery, Adenoidectomy & Tonsillectomy & Lingual Frenulectomy 
+1277,Surgery, Abscess Excision 
+4959,Cardiovascular / Pulmonary, Bilateral Carotid Angiography 
