@@ -1,0 +1,74 @@
+{
+  "anes": {
+    "n_notes": 60,
+    "n_with_value": 56,
+    "retrieval_recall": 0.9285714285714286,
+    "rules": {
+      "accuracy": 0.7666666666666667,
+      "ci95": [
+        0.65,
+        0.8666666666666667
+      ],
+      "accuracy_when_value_stated": 0.75,
+      "seconds_total": 0.004233360290527344,
+      "seconds_per_note": 7.05560048421224e-05
+    },
+    "llm_snippet": {
+      "accuracy": 0.7666666666666667,
+      "ci95": [
+        0.65,
+        0.8666666666666667
+      ],
+      "accuracy_when_value_stated": 0.7857142857142857,
+      "seconds_total": 76.78176045417786,
+      "seconds_per_note": 1.2796960075696309
+    },
+    "llm_full": {
+      "accuracy": 0.7333333333333333,
+      "ci95": [
+        0.6166666666666667,
+        0.85
+      ],
+      "accuracy_when_value_stated": 0.7857142857142857,
+      "seconds_total": 255.47723293304443,
+      "seconds_per_note": 4.257953882217407
+    },
+    "time_saved_snippet_vs_full": 0.6994575227989068
+  },
+  "ebl": {
+    "n_notes": 60,
+    "n_with_value": 30,
+    "retrieval_recall": 0.9666666666666667,
+    "rules": {
+      "accuracy": 0.9833333333333333,
+      "ci95": [
+        0.95,
+        1.0
+      ],
+      "accuracy_when_value_stated": 0.9666666666666667,
+      "seconds_total": 0.024225950241088867,
+      "seconds_per_note": 0.0004037658373514811
+    },
+    "llm_snippet": {
+      "accuracy": 0.7833333333333333,
+      "ci95": [
+        0.6666666666666666,
+        0.8833333333333333
+      ],
+      "accuracy_when_value_stated": 0.6,
+      "seconds_total": 27.56590485572815,
+      "seconds_per_note": 0.4594317475954692
+    },
+    "llm_full": {
+      "accuracy": 0.4166666666666667,
+      "ci95": [
+        0.3,
+        0.55
+      ],
+      "accuracy_when_value_stated": 0.5333333333333333,
+      "seconds_total": 229.0774486064911,
+      "seconds_per_note": 3.8179574767748514
+    },
+    "time_saved_snippet_vs_full": 0.8796655671546227
+  }
+}

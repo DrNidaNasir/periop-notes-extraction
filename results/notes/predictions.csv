@@ -1,0 +1,121 @@
+note_id,task,truth,n_chars,retrieved,rules,sec_rules,llm_snippet,raw_snippet,sec_snippet,tok_snippet,llm_full,raw_full,sec_full,tok_full
+45,ebl,minimal,2028,True,minimal,0.00023651123046875,minimal,minimal,0.6350991725921631,113,not stated,not stated,3.065467357635498,564
+45,anes,general,2028,True,general,1.4543533325195312e-05,general,General,1.6450376510620117,310,general,General,2.859556198120117,580
+88,ebl,5,4389,True,5,2.8371810913085938e-05,5,Less than 5 mL,1.2631196975708008,165,not stated,not stated,5.275533199310303,1159
+88,anes,not stated,4389,True,not stated,0.00018453598022460938,general,General endotracheal,1.3118352890014648,171,general,General endotracheal麻醉,5.528039932250977,1175
+102,ebl,not stated,3217,False,not stated,0.0006844997406005859,not stated,,0.0,0,minimal,minimal,3.681016445159912,844
+102,anes,regional,3217,True,regional,2.8371810913085938e-05,regional,Spinal with local,1.465723991394043,243,regional,Spinal with local,3.9906904697418213,860
+109,ebl,20,3828,True,20,7.343292236328125e-05,20,20 mL,1.0701327323913574,172,20,20 mL,4.790806293487549,1093
+109,anes,combined,3828,True,not stated,0.0002415180206298828,combined,General inhalational anesthesia with a caudal block,1.996201753616333,199,combined,General inhalational anesthesia with a caudal block,5.550273895263672,1109
+113,ebl,not stated,1831,False,not stated,0.0003552436828613281,not stated,,0.0,0,minimal,minimal,2.3626840114593506,563
+113,anes,general,1831,True,general,5.1021575927734375e-05,general,General,1.3874316215515137,303,general,General,2.5575435161590576,579
+123,ebl,not stated,2841,False,not stated,0.0006527900695800781,not stated,,0.0,0,not stated,not stated,3.321580648422241,771
+123,anes,general,2841,True,general,5.1021575927734375e-05,general,General endotracheal,1.9843337535858154,337,general,General endotracheal,3.8339717388153076,787
+124,ebl,not stated,790,False,not stated,0.00017905235290527344,not stated,,0.0,0,minimal,minimal,1.1719129085540771,258
+124,anes,not stated,790,False,not stated,2.7894973754882812e-05,not stated,,0.0,0,general,General endotracheal,1.6967980861663818,274
+134,ebl,not stated,924,False,not stated,0.000244140625,not stated,,0.0,0,minimal,minimal,1.1984808444976807,282
+134,anes,general,924,True,general,1.71661376953125e-05,general,General,1.017827033996582,217,general,General,1.3183097839355469,298
+182,ebl,not stated,1477,False,not stated,0.0002830028533935547,not stated,,0.0,0,minimal,minimal,1.79801607131958,385
+182,anes,local_or_sedation,1477,True,local_or_sedation,2.765655517578125e-05,local_or_sedation,topical anesthesia using tetracaine ophthalmic drops,2.0433332920074463,168,local_or_sedation,Topical anesthesia using tetracaine ophthalmic drops,3.020473003387451,401
+211,ebl,50,3234,True,50,5.984306335449219e-05,50,Approximately 50 cc,1.332610845565796,158,not stated,Not stated,3.639549970626831,840
+211,anes,general,3234,True,general,3.4809112548828125e-05,general,General endotracheal麻醉,1.7405648231506348,256,general,General endotracheal麻醉,4.0793797969818115,856
+241,ebl,minimal,2123,False,not stated,0.0005342960357666016,not stated,,0.0,0,minimal,minimal,2.5376698970794678,601
+241,anes,general,2123,True,general,1.9311904907226562e-05,general,General inhalational,1.1463203430175781,199,general,General inhalational,2.889430284500122,617
+265,ebl,5,3553,True,5,4.76837158203125e-05,not stated,not stated,0.9148824214935303,164,not stated,not stated,3.8202924728393555,920
+265,anes,general,3553,True,general,2.6941299438476562e-05,general,General endotracheal麻醉,1.6830472946166992,272,general,General endotracheal麻醉,4.359652996063232,936
+267,ebl,minimal,2689,True,minimal,0.0006718635559082031,minimal,minimal,0.6255800724029541,120,minimal,minimal,3.0239200592041016,710
+267,anes,general,2689,True,general,2.0265579223632812e-05,general,General endotracheal,1.8702082633972168,318,general,General endotracheal technique,3.5851783752441406,726
+289,ebl,not stated,961,False,not stated,0.00022125244140625,not stated,,0.0,0,minimal,minimal,1.4238190650939941,311
+289,anes,local_or_sedation,961,True,local_or_sedation,3.3855438232421875e-05,local_or_sedation,Local anesthesia,0.8954775333404541,165,local_or_sedation,Local anesthesia,1.5230433940887451,327
+303,ebl,100,5362,True,100,6.318092346191406e-05,not stated,Not stated,0.8659322261810303,166,not stated,not stated,5.691497325897217,1392
+303,anes,combined,5362,True,combined,5.507469177246094e-05,general,General anesthesia,1.8384127616882324,394,general,General anesthesia,5.755636692047119,1408
+332,ebl,500,5005,True,500,5.4836273193359375e-05,500,500 mL,1.0779671669006348,152,500,500 mL,5.4445483684539795,1240
+332,anes,general,5005,True,not stated,0.00021219253540039062,general,General anesthesia,1.1179745197296143,218,not stated,not stated,5.22963285446167,1256
+351,ebl,100,8523,True,100,9.083747863769531e-05,100,100 mL,1.132032871246338,170,100,100 mL,9.521482944488525,2127
+351,anes,general,8523,True,general,3.0279159545898438e-05,general,General endotracheal anesthesia,1.5288186073303223,220,general,General endotracheal anesthesia,9.73530387878418,2143
+377,ebl,not stated,3908,False,not stated,0.0010521411895751953,not stated,,0.0,0,not stated,not stated,3.8342740535736084,931
+377,anes,general,3908,True,general,2.9325485229492188e-05,general,General endotracheal,1.7472851276397705,307,general,General endotracheal,4.2805540561676025,947
+417,ebl,minimal,1070,True,minimal,0.0001289844512939453,minimal,minimal,0.7202143669128418,153,minimal,minimal,1.5363008975982666,349
+417,anes,local_or_sedation,1070,True,local_or_sedation,1.6450881958007812e-05,not stated,Not stated,0.8980023860931396,162,not stated,Not stated,1.7425408363342285,365
+421,ebl,not stated,2594,False,not stated,0.0004658699035644531,not stated,,0.0,0,not stated,not stated,2.9907751083374023,702
+421,anes,general,2594,True,general,3.933906555175781e-05,general,General anesthesia,1.5447866916656494,327,general,General anesthesia,3.076075553894043,718
+437,ebl,not stated,5094,False,not stated,0.0008704662322998047,not stated,,0.0,0,not stated,not stated,5.093266010284424,1248
+437,anes,local_or_sedation,5094,True,not stated,0.00017642974853515625,local_or_sedation,local with sedation,1.5952143669128418,284,general,General endotracheal麻醉,5.757216930389404,1264
+495,ebl,not stated,5445,False,not stated,0.000972747802734375,not stated,,0.0,0,not stated,not stated,5.413484573364258,1323
+495,anes,general,5445,True,general,2.2649765014648438e-05,general,General,1.0520730018615723,233,general,General,5.39301323890686,1339
+533,ebl,1,1391,True,1,3.886222839355469e-05,not stated,Not stated,0.8567354679107666,153,not stated,Not stated,1.8401806354522705,387
+533,anes,general,1391,True,general,3.075599670410156e-05,general,General,1.0248150825500488,243,general,General,1.7873611450195312,403
+547,ebl,not stated,2865,False,not stated,0.0005519390106201172,not stated,,0.0,0,not stated,not stated,3.0268173217773438,726
+547,anes,general,2865,True,general,2.8371810913085938e-05,general,General,1.1373658180236816,271,general,General,3.097501277923584,742
+553,ebl,not stated,2264,False,not stated,0.00044155120849609375,not stated,,0.0,0,minimal,minimal,2.5683071613311768,589
+553,anes,general,2264,True,general,2.2411346435546875e-05,general,General endotracheal,1.5439226627349854,230,general,General endotracheal,3.0143074989318848,605
+590,ebl,100,7201,True,100,0.0001773834228515625,not stated,Not stated,0.7972424030303955,148,not stated,Not stated,7.060706615447998,1703
+590,anes,general,7201,True,general,5.5789947509765625e-05,general,General endotracheal anesthesia,1.783747673034668,243,general,General endotracheal anesthesia with double-lumen endotracheal tube,8.822452545166016,1719
+614,ebl,200,3506,True,200,6.341934204101562e-05,200,200 mL,1.0741899013519287,159,200,200 mL,4.133896827697754,900
+614,anes,general,3506,True,general,2.1696090698242188e-05,general,general endotracheal,1.4956188201904297,243,general,General endotracheal,4.225666522979736,916
+620,ebl,30,3008,True,30,3.361701965332031e-05,20,20 mL,1.1473937034606934,192,30,30 mL,3.52238392829895,797
+620,anes,general,3008,True,not stated,0.00016546249389648438,general,General anesthesia,1.0483603477478027,205,general,General anesthesia,3.6172080039978027,813
+627,ebl,not stated,5161,False,not stated,0.00101470947265625,not stated,,0.0,0,minimal,minimal,5.266814947128296,1286
+627,anes,general,5161,True,general,1.9550323486328125e-05,general,General,1.1700060367584229,257,general,General anesthesia,5.502499341964722,1302
+630,ebl,not stated,4334,False,not stated,0.0008113384246826172,not stated,,0.0,0,minimal,minimal,4.9379730224609375,1170
+630,anes,general,4334,True,general,3.314018249511719e-05,general,General with sedation,1.77394700050354,321,general,General with endotracheal intubation,5.76140570640564,1186
+637,ebl,minimal,2721,True,minimal,0.0002982616424560547,minimal,minimal,0.7182891368865967,146,minimal,minimal,2.8912274837493896,723
+637,anes,general,2721,True,not stated,0.00016236305236816406,general,General anesthesia,0.864267110824585,154,general,General anesthesia,3.0852086544036865,739
+651,ebl,100,4610,True,100,5.3882598876953125e-05,not stated,Not stated,0.8989510536193848,166,not stated,Not stated,4.881952524185181,1171
+651,anes,general,4610,True,general,1.7404556274414062e-05,general,General,1.169673204421997,256,general,General,4.983236074447632,1187
+679,ebl,50,3724,True,50,5.7697296142578125e-05,50,50 mL,0.9339308738708496,157,50,50 mL,4.01493501663208,919
+679,anes,general,3724,True,general,3.314018249511719e-05,general,General,1.0275344848632812,230,general,General,3.7715320587158203,935
+716,ebl,not stated,1629,False,not stated,0.00037479400634765625,not stated,,0.0,0,5,5 mL,2.096933126449585,455
+716,anes,local_or_sedation,1629,True,local_or_sedation,6.842613220214844e-05,general,General endotracheal,1.273268222808838,173,local_or_sedation,"Xylocaine 1% with 1:100,000 dilution of epineph",4.588379859924316,471
+771,ebl,minimal,4375,True,minimal,0.0004782676696777344,minimal,minimal,0.808866024017334,173,minimal,minimal,4.016075611114502,1022
+771,anes,general,4375,True,not stated,0.00020933151245117188,general,General anesthesia,1.3901288509368896,287,not stated,mask,4.2203919887542725,1038
+794,ebl,not stated,6705,False,not stated,0.0007464885711669922,not stated,,0.0,0,minimal,minimal,6.594312429428101,1570
+794,anes,local_or_sedation,6705,True,local_or_sedation,5.435943603515625e-05,general,General endotracheal,1.2210373878479004,165,local_or_sedation,Demerol 50 mg with Versed 3 mg as well as topical cocaine and lidocaine solution.,9.245603084564209,1586
+838,ebl,not stated,2232,False,not stated,0.00046372413635253906,not stated,,0.0,0,minimal,minimal,2.5819876194000244,621
+838,anes,local_or_sedation,2232,False,not stated,0.0001556873321533203,not stated,,0.0,0,general,General endotracheal,3.178631544113159,637
+843,ebl,minimal,3047,True,minimal,0.0007393360137939453,minimal,minimal,0.6077778339385986,112,minimal,minimal,3.2467122077941895,797
+843,anes,general,3047,True,not stated,0.00019788742065429688,general,General anesthesia,1.585834264755249,316,general,General anesthesia,3.463984966278076,813
+877,ebl,not stated,2938,True,not stated,0.0006167888641357422,minimal,minimal,0.9533324241638184,221,minimal,minimal,3.19623064994812,770
+877,anes,local_or_sedation,2938,True,local_or_sedation,5.626678466796875e-05,general,General endotracheal,1.3337271213531494,179,local_or_sedation,conscious sedation with Demerol and Versed,4.220051050186157,786
+899,ebl,10,2980,True,10,6.699562072753906e-05,10,10 mL,1.012462854385376,162,10,10 mL,3.5421109199523926,772
+899,anes,general,2980,True,general,3.504753112792969e-05,general,General endotracheal,1.6685943603515625,253,general,General endotracheal,3.7322943210601807,788
+921,ebl,400,7071,True,400,7.009506225585938e-05,200,200 mL,1.1399025917053223,163,200,200 mL,7.776836633682251,1776
+921,anes,general,7071,True,general,5.435943603515625e-05,general,General endotracheal,1.3305628299713135,181,general,General endotracheal,7.947577238082886,1792
+945,ebl,minimal,2313,True,minimal,0.0002884864807128906,not stated,not stated,0.8772001266479492,152,minimal,minimal,2.6299710273742676,599
+945,anes,general,2313,True,general,3.504753112792969e-05,general,General via endotracheal tube,1.9584882259368896,240,general,General via endotracheal tube,3.3369641304016113,615
+963,ebl,150,4117,True,150,0.00042510032653808594,150,150 mL,0.8777048587799072,98,200,200 mL,4.303758144378662,967
+963,anes,general,4117,True,general,2.4318695068359375e-05,general,General endotracheal,1.4793908596038818,229,general,General via endotracheal tube,4.683220624923706,983
+1003,ebl,not stated,1152,False,not stated,0.00024390220642089844,not stated,,0.0,0,minimal,minimal,1.6775548458099365,372
+1003,anes,local_or_sedation,1152,False,not stated,6.866455078125e-05,not stated,,0.0,0,general,General endotracheal麻醉,2.2291581630706787,388
+1084,ebl,not stated,1551,False,not stated,0.00026488304138183594,not stated,,0.0,0,minimal,minimal,1.739380121231079,407
+1084,anes,regional,1551,False,not stated,9.870529174804688e-05,not stated,,0.0,0,general,General endotracheal麻醉,2.4990358352661133,423
+1126,ebl,not stated,9987,False,not stated,0.0019812583923339844,not stated,,0.0,0,not stated,not stated,10.52120041847229,2462
+1126,anes,local_or_sedation,9987,True,not stated,0.0003781318664550781,general,General endotracheal,1.4051134586334229,210,general,General endotracheal麻醉,11.65786361694336,2478
+1134,ebl,not stated,1091,False,not stated,0.00023126602172851562,not stated,,0.0,0,minimal,minimal,1.3897755146026611,323
+1134,anes,not stated,1091,True,not stated,3.814697265625e-05,general,General endotracheal,1.2299282550811768,155,general,General endotracheal,1.9756004810333252,339
+1164,ebl,not stated,2054,False,not stated,0.0005345344543457031,not stated,,0.0,0,minimal,minimal,2.365666627883911,554
+1164,anes,local_or_sedation,2054,False,not stated,9.751319885253906e-05,not stated,,0.0,0,general,General endotracheal,2.9208574295043945,570
+1185,ebl,minimal,2575,True,minimal,0.0003273487091064453,not stated,not stated,0.7948503494262695,156,not stated,not stated,2.799879789352417,641
+1185,anes,general,2575,True,general,3.719329833984375e-05,general,General endotracheal anesthesia,1.7141478061676025,246,general,General endotracheal anesthesia,3.3769755363464355,657
+1191,ebl,30,4185,True,30,0.00010204315185546875,not stated,Not stated,0.7771649360656738,149,not stated,not stated,4.245604038238525,996
+1191,anes,general,4185,True,general,2.2649765014648438e-05,general,General endotracheal,1.5044293403625488,238,general,LMA,4.397663354873657,1012
+1203,ebl,minimal,3350,True,minimal,0.0004031658172607422,minimal,minimal,0.7240262031555176,155,minimal,minimal,3.450623035430908,837
+1203,anes,general,3350,True,general,4.124641418457031e-05,general,General,1.096900224685669,245,general,General,3.4903111457824707,853
+1209,ebl,not stated,4564,False,not stated,0.0008471012115478516,not stated,,0.0,0,not stated,Not stated,5.057527780532837,1191
+1209,anes,general,4564,True,general,3.3855438232421875e-05,general,General,1.1767024993896484,254,general,General,5.0335776805877686,1207
+1218,ebl,not stated,4917,False,not stated,0.0007605552673339844,not stated,,0.0,0,minimal,minimal,4.916548728942871,1187
+1218,anes,local_or_sedation,4917,True,not stated,0.0001881122589111328,general,General endotracheal anesthesia,1.6846563816070557,261,general,General endotracheal麻醉,5.533469915390015,1203
+1235,ebl,not stated,3786,False,not stated,0.0008981227874755859,not stated,,0.0,0,not stated,not stated,4.0016162395477295,979
+1235,anes,general,3786,True,general,5.7697296142578125e-05,general,General,0.8928816318511963,197,general,General,4.131556034088135,995
+1240,ebl,50,6358,True,50,9.965896606445312e-05,not stated,Not stated,0.8154528141021729,151,not stated,Not stated,6.88983154296875,1614
+1240,anes,general,6358,True,general,3.719329833984375e-05,general,General endotracheal anesthesia,1.7037405967712402,248,general,General endotracheal anesthesia,7.384976148605347,1630
+1245,ebl,200,2950,True,200,0.0003864765167236328,200,200 mL,0.9642009735107422,124,not stated,not stated,3.4782705307006836,801
+1245,anes,not stated,2950,False,not stated,9.512901306152344e-05,not stated,,0.0,0,general,General endotracheal anesthesia,4.112594366073608,817
+1273,ebl,not stated,3408,False,not stated,0.0004191398620605469,not stated,,0.0,0,minimal,minimal,3.6946418285369873,902
+1273,anes,general,3408,True,general,4.982948303222656e-05,general,General anesthesia,1.6148200035095215,332,general,General anesthesia,3.888369083404541,918
+1274,ebl,not stated,2117,False,not stated,0.0003962516784667969,not stated,,0.0,0,minimal,minimal,2.7406272888183594,625
+1274,anes,general,2117,True,general,3.075599670410156e-05,general,General endotracheal,1.3308379650115967,182,general,General endotracheal,3.1532821655273438,641
+1277,ebl,not stated,2222,False,not stated,0.00048804283142089844,not stated,,0.0,0,minimal,minimal,2.499309778213501,598
+1277,anes,general,2222,True,general,2.193450927734375e-05,general,General endotracheal麻醉,1.6670193672180176,232,general,LMA,2.690418004989624,614
+4959,ebl,400,1993,True,400,5.841255187988281e-05,400,400 mL,1.1486587524414062,154,400,400 mL,2.842888116836548,583
+4959,anes,local_or_sedation,1993,True,not stated,9.512901306152344e-05,not stated,induration anesthesia,0.9703824520111084,155,general,General endotracheal,2.953730821609497,599
